@@ -28,3 +28,10 @@ class userregister(models.Model):
 
 class img(models.Model):
     img= models.ImageField(upload_to='VKimg')
+
+class category(models.Model):
+    name= models.CharField(max_length=50)
+    image=models.ImageField(upload_to='vkimg')
+
+    def __str__(self):
+        return self.name
