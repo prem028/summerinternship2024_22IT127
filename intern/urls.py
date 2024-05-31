@@ -23,7 +23,8 @@ from internweb import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     # path('first/',views.first,name='Website'), # or path("",views.first,name='Website') /default path
-    path('app1/',include('internweb.urls')) #we need to write /app1/ in website to jumpin app
-      # or path('',include('internweb.urls')) direct jump in app
+    #path('app1/',include('internweb.urls')) #we need to write /app1/ in website to jumpin app
+    # or
+    path('',include('internweb.urls')) #direct jump in app
 ] + static(settings.MEDIA_URL,document_root= settings.MEDIA_ROOT)
 

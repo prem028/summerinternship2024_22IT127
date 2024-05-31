@@ -24,3 +24,23 @@ def table_cat(request):
     #         print(i.email)
     
     return render(request,'category.html',{'category_c': category_data})
+
+def form(request):
+    if request.method =='POST':
+        authorform = Author()
+        authorform.name = request.POST['uname']
+        authorform.email = request.POST['uemail']
+        authorform.save()
+        return render(request,'form.html')
+    else :
+        return render(request,'form.html')
+        
+def catform(request):
+    if request.method =='POST':
+        catform = category()
+        catform.name = request.POST['uname']
+        catform.image = request.FILES['ufile']
+        catform.save()
+        return render(request,'catform.html')
+    else :
+        return render(request,'catform.html')
