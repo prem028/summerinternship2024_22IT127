@@ -44,3 +44,18 @@ def catform(request):
         return render(request,'catform.html')
     else :
         return render(request,'catform.html')
+def update(request):
+    try:
+        if request.method=="POST" :
+            upauthor= Author.objects.get(name = 'Prem2') 
+            upauthor.name = request.POST['name']
+            upauthor.email = request.POST['email']
+            #print(upauthor)
+            upauthor.save()
+            return render(request,'update.html',{'author':upauthor})
+        else:
+            upauthor=Author.objects.get(name = 'Prem2')
+            return render(request,'update.html',{'author':upauthor})
+        
+    except Exception as e:
+        return render(request,'update.html')
