@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Blog, Author,userregister,img,category
+from .models import Blog, Author,userregister,img,category,product
 
 admin.site.register(Blog)
 
@@ -25,3 +25,8 @@ class cat_(admin.ModelAdmin):
     list_display=['name','image']
 
 admin.site.register(category,cat_)
+
+class proj(admin.ModelAdmin):
+    list_display=['id','name','description','image','category','qty','price']
+
+admin.site.register(product,proj)

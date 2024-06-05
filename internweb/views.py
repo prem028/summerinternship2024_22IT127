@@ -1,5 +1,5 @@
 from django.shortcuts import render,HttpResponse
-from .models import Author,category
+from .models import Author,category,product,userregister
 # Create your views here.
 def first(request):
     return HttpResponse("This is Love website.")
@@ -63,3 +63,21 @@ def update(request):
 def index(request):
     catdata = category.objects.all()
     return render(request,'index.html',{'cat':catdata})
+
+def productshow(request):
+    prodata=product.objects.all()
+    return render(request,'product.html',{'prod':prodata})
+
+def register(request):
+    if request.method == 'POST':
+        user=userregister()
+        user.name = request.POST['name']
+        user.email =request.POST['email']
+        user.add = request.POST['add']
+        user.password=request.POST['password']
+        user.mob =request.POST['mob']
+        user.save()
+        return render(request,'register.html',{'store':"You are registered successfully!!!!!!!!!"})
+
+    else : 
+        return render(request,'register.html')

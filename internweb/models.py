@@ -22,7 +22,7 @@ class userregister(models.Model):
     email = models.EmailField()
     add = models.TextField()
     password = models.CharField(max_length=20)
-
+    mob=models.CharField(max_length=10,default="")
     # def __str__(self):
     #     return self.name
 
@@ -32,6 +32,17 @@ class img(models.Model):
 class category(models.Model):
     name= models.CharField(max_length=50)
     image=models.ImageField(upload_to='vkimg')
+
+    def __str__(self):
+        return self.name
+
+class product(models.Model):
+    name=models.CharField(max_length=100)
+    description=models.TextField()
+    image=models.ImageField()
+    price=models.CharField(max_length=50)
+    qty=models.PositiveIntegerField()
+    category=models.ForeignKey(category,on_delete=models.CASCADE)
 
     def __str__(self):
         return self.name
