@@ -23,8 +23,8 @@ class userregister(models.Model):
     add = models.TextField()
     password = models.CharField(max_length=20)
     mob=models.CharField(max_length=10,default="")
-    # def __str__(self):
-    #     return self.name
+    def __str__(self):
+        return self.email
 
 class img(models.Model):
     img= models.ImageField(upload_to='VKimg')

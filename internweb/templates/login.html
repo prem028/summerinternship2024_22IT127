@@ -35,30 +35,15 @@ Author URL: http://w3layouts.com
                     <form  method="post" class="">
                         {% csrf_token %}
                         <div class="form-grid">
-                            <div class="input-field">
-                                <label> Username</label>
-                                <input type="text" name="name" id="email" placeholder="Username" required="" >
-                            </div>
+                            
                             <div class="input-field">
                                 <label>Email</label>
                                 <input type="email" name="email" id="Password" placeholder="Email" required="" >
                             </div>
-                            <div class="input-field">
-                                <label>Mobile</label>
-                                <input type="text" name="mob" id="Password" placeholder="Contact No"  required="">
-                            </div>
+                            
                             <div class="input-field">
                                 <label>Password</label>
                                 <input type="password" name="password" id="Password" placeholder="Password"  required="">
-                            </div>
-                            <div class="input-field">
-                                <label>Confirm Password</label>
-                                <input type="password" name="cpassword" id="CPassword" placeholder="Password"  required="">
-                            </div>
-                            <div class="input-field">
-                                <label>Address</label>
-                                <textarea name="add" id=""></textarea>
-                                {% comment %} <input type="password" name="password" id="Password" placeholder="Password"  required=""> {% endcomment %}
                             </div>
                         </div>
                         <label class="check-remaind">
@@ -80,9 +65,9 @@ Author URL: http://w3layouts.com
                 alert('{{already}}')
                </script>
                {% endif %}
-               {% if pass  %}
+               {% if passmat  %}
                <script>
-                alert('{{pass}}')
+                alert('{{passmat}}')
                </script>
                {% endif %}
         <!-- //main content -->

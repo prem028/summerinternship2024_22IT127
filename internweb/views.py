@@ -1,4 +1,4 @@
-from django.shortcuts import render,HttpResponse
+from django.shortcuts import render,HttpResponse,redirect
 from .models import Author,category,product,userregister
 # Create your views here.
 def first(request):
@@ -76,8 +76,23 @@ def register(request):
         user.add = request.POST['add']
         user.password=request.POST['password']
         user.mob =request.POST['mob']
-        user.save()
-        return render(request,'register.html',{'store':"You are registered successfully!!!!!!!!!"})
+        useralready = userregister.objects.filter(email = request.POST['email'])
+        if useralready: # or if len(useralready) > 0 :
+            return render(request,'register.html',{'already':"You are already registered by using this email  !!!!!!!!!"})
+        else:
+            user.save()
+            return render(request,'register.html',{'store':"You are registered successfully!!!!!!!!!"})
 
     else : 
         return render(request,'register.html')
+    
+def login(request):
+    if request.method == 'POST':
+        useremail= userregister.objects.get(email = request.POST['email'])
+        if useremail.password == request.POST['password'] :
+            return redirect('index')
+        else:
+            return render(request,'login.html',{'passmat':"password is incorrect!!!!"})
+        return render(request,'login.html')
+    else : 
+        return render(request,'login.html')
