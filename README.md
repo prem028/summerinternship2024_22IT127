@@ -50,5 +50,21 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 •	Additionally, I received guidance on Python from a member of the company's team.
 
+### Day-2:Getting info about django.
 
 
+•	I began learning django from YouTube tutorials.
+
+•	In company guidance, I received training specifically focused on Django, a framework used extensively within our projects. This guidance helped me delve deeper into Python development, particularly in the context of web applications.
+
+### Day-2:Learning the django-framework.
+
+
+•	I began learning django-framework from YouTube tutorials.
+
+•	I initiated the project as a small-scale endeavor.
+
+##### ➡Commands : 
+• pip install Django  or python -m pip install django -> for installing django in computer.
+
+•django-admin startproject projectname or python -m Django startproject projectname -> for creating project 
