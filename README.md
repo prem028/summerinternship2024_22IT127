@@ -87,7 +87,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 ##### Admin Page: 
 ![WhatsApp Image 2024-06-21 at 15 35 46_b06cf9cc](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/9b890539-fa25-47dd-8d0f-de51e4eeacdd)
 
-### **Day-5: Started again with python**.
+**### Day-5: Started again with python**.
 
 
 • Use w3school for learning python.Website : https://www.w3schools.com/python/
