@@ -26,4 +26,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 •	After introduction company give the point to cover in week 1 during internship.
 
+![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/4847f661-4561-4c54-aff2-a62d4b093d69)
+
+
 
