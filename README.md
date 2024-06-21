@@ -57,7 +57,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 •	In company guidance, I received training specifically focused on Django, a framework used extensively within our projects. This guidance helped me delve deeper into Python development, particularly in the context of web applications.
 
-### Day-2:Learning the django-framework.
+### Day-3:Learning the django-framework.
 
 
 •	I began learning django-framework from YouTube tutorials.
@@ -67,4 +67,21 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 ##### ➡Commands : 
 • pip install Django  or python -m pip install django -> for installing django in computer.
 
-•django-admin startproject projectname or python -m Django startproject projectname -> for creating project 
+• django-admin startproject projectname or python -m Django startproject projectname -> for creating project.
+
+### Day-4: Studying how to manipulate the admin page in Django.
+
+• To access the Django admin page, use two commands.
+
+• Within the admin page, you can view the total number of users and associated tables.
+
+• I also learned how to create a superuser account to access the admin page as a user.
+
+##### ➡Commands : 
+• python manage.py runserver -> to run the created project
+
+• http://127.0.0.1:8000/admin ->for admin page 
+
+###### Admin Page : 
+![WhatsApp Image 2024-06-21 at 15 35 46_b06cf9cc](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/9b890539-fa25-47dd-8d0f-de51e4eeacdd)
+
