@@ -42,7 +42,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 ## 📝 Day-by-Day Progress ⌛ 
 
-### Day-1: **Learning the basics of Python**
+### Day-1: Learning the basics of Python.
 
 
 •	I began learning Python from YouTube tutorials.
@@ -51,14 +51,14 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 •	Additionally, I received guidance on Python from a member of the company's team.
 
-### Day-2: **Getting info about django**.
+### Day-2: Getting info about django.
 
 
 •	I began learning django from YouTube tutorials.
 
 •	In company guidance, I received training specifically focused on Django, a framework used extensively within our projects. This guidance helped me delve deeper into Python development, particularly in the context of web applications.
 
-### Day-3: **Learning the django-framework**.
+### Day-3: Learning the django-framework.
 
 
 •	I began learning django-framework from YouTube tutorials.
@@ -70,7 +70,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 • django-admin startproject projectname or python -m Django startproject projectname -> for creating project.
 
-### Day-4: **Studying how to manipulate the admin page in Django**.
+### Day-4: Studying how to manipulate the admin page in Django.
 
 
 • To access the Django admin page, use two commands.
