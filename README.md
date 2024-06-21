@@ -33,7 +33,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 2. fundamentals of Django.
 
-3.Django Framework.
+3. Django Framework.
 
 
 
