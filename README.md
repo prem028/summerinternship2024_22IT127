@@ -82,6 +82,6 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 • http://127.0.0.1:8000/admin ->for admin page 
 
-###### Admin Page : 
+##### Admin Page: 
 ![WhatsApp Image 2024-06-21 at 15 35 46_b06cf9cc](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/9b890539-fa25-47dd-8d0f-de51e4eeacdd)
 
