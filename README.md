@@ -39,7 +39,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 5. Deep Knowledge of Python
 
-# 📝 Day-by-Day Progress ⌛ 
+## 📝 Day-by-Day Progress ⌛ 
 
 ### Day-1:Learning the basics of Python
 
