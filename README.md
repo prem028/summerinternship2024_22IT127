@@ -95,3 +95,99 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 • I learn different different modules in python.
 
 • Solve 5-6 problems related to python.
+
+
+## 2️⃣ week 2
+
+### 22 May 2024
+
+• We have a daily Google Meet to showcase our work.
+
+• This week, we need to learn specific skills or functionalities for the project.
+
+• Additionally, we receive guidance to support our learning.
+
+### Outline of Week_2:
+1.Create urls.py.
+
+2.Create project app.
+
+3.Create models.py file.
+
+4.Connect database.
+
+## 📝 Day-by-Day Progress ⌛ 
+
+### Day-1: Setting Up URL Routing.
+
+• Created urls.py to manage multiple URL routes by adding them to the local host.
+
+• Also, created settings.py to include all pages connected via urls.py.
+
+• Added virtual paths in the settings.py file to route URLs correctly.
+
+### Day-2: Learning About Databases
+
+
+• Different programming languages use various databases.
+
+• For instance, we use MongoDB, MySQL, etc.
+
+• In Django, we used SQLite (dbsqlite3) as a reference and also utilized MySQL.
+
+• Obtained information about SQLite from its documentation.
+
+### Day-3: Creating the Main App in Django
+
+
+• Created a new app (project file) to handle all aspects of the website.
+
+• The app contains six files, with frequent use of urls.py, views.py, and models.py.
+
+• Used views.py and models.py to create different tables.
+
+• Defined tables in models.py and connected them to the website using views.py.
+
+
+##### ➡Commands:
+
+1.python manage.py startapp appname ->to create the app.
+
+2.from .models import tablename(models.py) ->to connect tables defined in models.py.
+
+### Day-4: Studying about database 
+
+• Studied MongoDB in college.
+
+• Here i study about SQlite.
+
+• Referred to SQLite documentation for preparation.
+
+• Found SQLite easy to adopt. It's commonly used in Django, though sometimes we use MySQL as well.
+
+### Day-5 : Django Database Setup: Commands for Table Creation and Connection
+
+• Created tables in models.py.
+
+• After creating tables, added them to views.py and then used urls.py to display the data or tables.
+
+• Encountered an issue where no data was displayed on the website and no errors were shown.
+
+• Why it's happening .?
+
+• Firstly we need to connect tables into database using two commands.
+
+##### Table Creation:
+![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/98fe088d-8bc4-4358-bb33-e2009c01f72d)
+
+##### Admin Page:
+![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/9fd64de6-bdb8-4c1b-9368-38c5ce7ea5ce)
+
+##### ➡Commands:
+
+1. python manage.py makemigrations -> to prepare tables for addition to the database.
+
+2. python manage.py migrate -> to connect the tables to the database.
+
+
+## 3️⃣ week 3
