@@ -29,11 +29,11 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/4847f661-4561-4c54-aff2-a62d4b093d69)
 
 ### Outline of Week_1:
-1.Learned the basics of the Python programming language and practiced by writing various code snippets.
+1. Basics of the Python programming language.
 
-2.Gained an understanding of the fundamentals of Django.
+2. fundamentals of Django.
 
-3.Initiated a basic project using Django, gaining practical insights and hands-on experience with the framework.
+3.Django Framework.
 
 
 
