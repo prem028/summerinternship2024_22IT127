@@ -19,6 +19,9 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 # Start Of Internship
 
-## ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/679123e9-3f67-46d5-a05b-dbe01c57dbb3)
+## ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/679123e9-3f67-46d5-a05b-dbe01c57dbb3)  Week 1
+
+### 15 May 2024
+Orientation Meeting : Introduction to company and overview of the company's core projects and values,highlighting BrainyBeam’s dedication to technological excellence and creativity.
 
 
