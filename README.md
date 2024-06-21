@@ -35,5 +35,20 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 3. Django Framework.
 
+4. Admin page of Django.
+
+5. Deep Knowledge of Python
+
+#📝 Day-by-Day Progress ⌛ 
+
+### Day-1:Learning the basics of Python
+
+
+•	I began learning Python from YouTube tutorials.
+
+•	Following that, I practiced basic Python coding in VS Code for reference.
+
+•	Additionally, I received guidance on Python from a member of the company's team.
+
 
 
