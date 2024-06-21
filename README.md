@@ -22,6 +22,8 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 ##  ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/510f2fa7-4caa-4c25-bbfe-133b023acc49) Week 1
 
 ### 15 May 2024
-Orientation Meeting : Introduction to company and overview of the company's core projects and values,highlighting BrainyBeam’s dedication to technological excellence and creativity.
+•	Orientation Meeting : Introduction to company and overview of the company's core projects and values,highlighting BrainyBeam’s dedication to technological excellence and creativity.
+
+•	After introduction company give the point to cover in week 1 during internship.
 
 
