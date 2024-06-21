@@ -29,6 +29,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/4847f661-4561-4c54-aff2-a62d4b093d69)
 
 ### Outline of Week_1:
+
 1. Basics of the Python programming language.
 
 2. fundamentals of Django.
@@ -71,6 +72,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 ### Day-4: Studying how to manipulate the admin page in Django.
 
+
 • To access the Django admin page, use two commands.
 
 • Within the admin page, you can view the total number of users and associated tables.
@@ -86,6 +88,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 ![WhatsApp Image 2024-06-21 at 15 35 46_b06cf9cc](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/9b890539-fa25-47dd-8d0f-de51e4eeacdd)
 
 ### Day-5: Started again with python.
+
 
 • Use w3school for learning python.Website : https://www.w3schools.com/python/
 
