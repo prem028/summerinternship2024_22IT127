@@ -17,3 +17,8 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 •	In the final week of the internship, I collaborated with my assigned group partner to create a comprehensive project. This collaborative effort allowed us to integrate everything we had learned and work together to solve complex problems, culminating in a complete and functional project that demonstrated our skills and teamwork.
 
+# Start Of Internship
+
+## ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/679123e9-3f67-46d5-a05b-dbe01c57dbb3)
+
+
