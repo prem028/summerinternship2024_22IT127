@@ -205,7 +205,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 • Additionally, we receive guidance to support our task.
 
-### Outline of Week_2:
+### Outline of Week_3:
 1.Insert image on website and preview it.
 
 2.Display a simple message.
@@ -225,70 +225,70 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 ### Day-1 : Inserting image on admin page.
 
-• Firstly,you need to install Pillow library to insert image.
+• First, install the Pillow library to handle image uploads.
 
-• Modify model to include an imagefield.This field used "upload_to" parameter.
+• Modify the model to include an ImageField and use the "upload_to" parameter.
 
-• Go with migrations steps or commands.
+• Perform the migration steps to update the database.
 
 • Configure media setting using "MEDIA_URL" and "MEDIA_ROOT".
 
-• Test the implementation.
+• Test the implementation to ensure images are properly displayed.
 
 ##### Image on Website :
 ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/fc2227ab-32a4-413b-8fef-1b154e861ec3)
 
-### Day-2 : Django-Html language
+### Day-2 : Learning Django-HTML Language
 
-• Firstly i show one msg on website using simple file.
+• Start by displaying a message on the website using a simple HTML file.
 
-• Then,Learn django-html code from django documentation.
+• Study Django-HTML code from the Django documentation.
 
-• learn,how to show html file using django.
+• Learn how to render HTML files using Django.
 
-• Website for learning D-Html : https://docs.djangoproject.com/en/5.0/ref/templates/language/
+• Resource for learning Django-HTML: Django Template Language Documentation.
 
-### Day-3 : Different html files using django to show on website
+### Day-3 : Displaying Different HTML Files Using Django
 
-• Started with simple html file : writing by one msg in html file "This is my first html template"
+• Begin with a simple HTML file containing the message "This is my first HTML template".
 
-• Create one more file to show data from author table on admin page.
+• Create another file to display data from the author table on the admin page.
 
-• Then ,try to show data of one of the table in form of table.
+• Display data from one of the tables in a tabular format.
 
-• If image not showed on website then check you add virtual path ot not.
+• If the image is not displayed on the website, ensure the virtual path is correctly added.
 
 ### Day-4 : Data manipulation using HTML 
 
-• First try to create one normal html form for data entry by user.
+• Create a basic HTML form for user data entry.
 
-• Then convert it into django format and connect to website using views.py file.
+• Convert it into a Django format and connect it to the website using the views.py file.
 
-• Not able to store image from html form.
+• Encountered an issue with storing images from the HTML form.
 
-• To solve this error used  : request.FILES['your_name_htmlform_attribute']->command
+• Solved the error using the command: request.FILES['your_name_htmlform_attribute'].
 
 
 ### Day-5 : Login page and product page
 
-• Create html file producct page to show data from admin page.
+• Create an HTML product page to display data from the admin page.
 
-• Then add django to it.
+• Integrate Django functionality into the product page.
 
 ##### Product page :
 ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/572b7159-29da-40da-91a4-00479a118f0e)
 
-• Then  created an HTML page for user registration and connected it to the userregister table using Django.
+• Develop an HTML page for user registration and connect it to the user registration table using Django.
 
-• When I submit the form, the data gets reflected in the userregister table.
+• On form submission, data is reflected in the user registration table.
 
 ##### user registration Page :
 ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/4d0676ea-fcec-474e-8317-1012daaf57f3)
 
-• Created a login page using HTML for user authentication.
+• Create a login page using HTML for user authentication.
 
-• Added functionality to validate the login credentials.
+• Add functionality to validate login credentials.
 
-• Here, Our tasks are completed and started the project with my patrner.
+• Completed the tasks and started the project with my partner.
 
 ## 4️⃣ week 4 
