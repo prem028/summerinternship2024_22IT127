@@ -99,6 +99,9 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 ## 2️⃣ week 2
 
+![Chart-run-cycle](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/138d16ff-ec23-47c3-a119-4cf0d091aa8a)
+
+
 ### 22 May 2024
 
 • We have a daily Google Meet to showcase our work.
@@ -191,3 +194,101 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 
 ## 3️⃣ week 3
+
+![RGh4](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/165b431f-30a9-4e09-9af4-5624a8ddf799)
+
+### 29 May 2024
+
+• We have a daily Google Meet to showcase our work.
+
+• This week, we need to do specific task given by the company.
+
+• Additionally, we receive guidance to support our task.
+
+### Outline of Week_2:
+1.Insert image on website and preview it.
+
+2.Display a simple message.
+
+3.Learn Django-HTML language.
+
+4.Attach HTML files.
+
+5.Add data using HTML files.
+
+6.Update data using HTML forms.
+
+7.Create an HTML product page.
+
+8.Create a login form.
+## 📝 Day-by-Day Progress ⌛ 
+
+### Day-1 : Inserting image on admin page.
+
+• Firstly,you need to install Pillow library to insert image.
+
+• Modify model to include an imagefield.This field used "upload_to" parameter.
+
+• Go with migrations steps or commands.
+
+• Configure media setting using "MEDIA_URL" and "MEDIA_ROOT".
+
+• Test the implementation.
+
+##### Image on Website :
+![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/fc2227ab-32a4-413b-8fef-1b154e861ec3)
+
+### Day-2 : Django-Html language
+
+• Firstly i show one msg on website using simple file.
+
+• Then,Learn django-html code from django documentation.
+
+• learn,how to show html file using django.
+
+• Website for learning D-Html : https://docs.djangoproject.com/en/5.0/ref/templates/language/
+
+### Day-3 : Different html files using django to show on website
+
+• Started with simple html file : writing by one msg in html file "This is my first html template"
+
+• Create one more file to show data from author table on admin page.
+
+• Then ,try to show data of one of the table in form of table.
+
+• If image not showed on website then check you add virtual path ot not.
+
+### Day-4 : Data manipulation using HTML 
+
+• First try to create one normal html form for data entry by user.
+
+• Then convert it into django format and connect to website using views.py file.
+
+• Not able to store image from html form.
+
+• To solve this error used  : request.FILES['your_name_htmlform_attribute']->command
+
+
+### Day-5 : Login page and product page
+
+• Create html file producct page to show data from admin page.
+
+• Then add django to it.
+
+##### Product page :
+![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/572b7159-29da-40da-91a4-00479a118f0e)
+
+• Then  created an HTML page for user registration and connected it to the userregister table using Django.
+
+• When I submit the form, the data gets reflected in the userregister table.
+
+##### user registration Page :
+![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/4d0676ea-fcec-474e-8317-1012daaf57f3)
+
+• Created a login page using HTML for user authentication.
+
+• Added functionality to validate the login credentials.
+
+• Here, Our tasks are completed and started the project with my patrner.
+
+## 4️⃣ week 4 
