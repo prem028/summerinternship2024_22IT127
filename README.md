@@ -292,3 +292,61 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 • Completed the tasks and started the project with my partner.
 
 ## 4️⃣ week 4 
+
+### Outline of Week_3:
+1.Understanding project definition.
+
+2.Work on Project.
+
+3.Utilize maximum functionlatiy.
+
+4.Create own project.
+
+5.Completed Smart Finance System.
+
+## 📝 Day-by-Day Progress ⌛ 
+
+### Day-1 : Understanding Project Definition and utilization
+
+• Most important for creating any project is to complete understand the definition and work on how to implement all the functionlaties to project.
+
+• If you don't understand what is definiton is say then go with online examples.
+
+• I searched online examples to see how finance systems works.
+
+• After this initial research phase, we proceeded to work on our
+project by creating a simple admin page using Django
+
+### Day-2 : Planning of project
+
+• Created website index page.
+
+• Then go with planning of table creation.
+
+• Then go with planning of html pages.
+
+• Then go with Javascript planning.
+
+### Day-3 : Working on project
+
+• Initial created signup and contact tables.
+
+• Then we proceed the phase of database connection.
+
+• Then we started with html pages for signup and contact table.
+
+### Day-4 : Working on project
+
+• After intiating project we create categories and Expense table.
+
+• Then we proceed the phase of database connection.
+
+• Then we started with html pages for categories and Expense table.
+
+### Day-5 : Working on project
+
+• In last created subscribe and faqs tables.
+
+• Then we proceed the phase of database connection.
+
+• Then we started with html pages for subscribe and faqs table.
