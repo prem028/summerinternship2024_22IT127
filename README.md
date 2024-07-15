@@ -293,7 +293,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 
 ## 4️⃣ week 4 
 
-### Outline of Week_3:
+### Outline of Week_4:
 1.Understanding project definition.
 
 2.Work on Project.
@@ -350,3 +350,5 @@ project by creating a simple admin page using Django
 • Then we proceed the phase of database connection.
 
 • Then we started with html pages for subscribe and faqs table.
+
+# The working Project of Smart Finance System is on my anoher repo: https://github.com/prem028/Finance-System 🚀🚀🌟🌟
