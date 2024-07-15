@@ -351,4 +351,4 @@ project by creating a simple admin page using Django
 
 • Then we started with html pages for subscribe and faqs table.
 
-# The working Project of Smart Finance System is on my anoher repo: https://github.com/prem028/Finance-System 🚀🚀🌟🌟
+# The working Project of Smart Finance System is on my another repo: https://github.com/prem028/Finance-System 🚀🚀🌟🌟
